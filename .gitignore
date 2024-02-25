@@ -1,0 +1,17 @@
+unversioned*
+media
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.log
+**/*.mp
+**/*.out
+**/*.synctex.gz
+**/*.top
+**/*.tui 
+tmp
+.DS_Store
+*.pyc
+*.p
+*.fls
+.ipynb_checkpoints
